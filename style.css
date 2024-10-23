@@ -1,20 +1,21 @@
+
 .fondo {
     background: #faf7f9;
   }
-
+  
   .contenido2 {
     color: #3b3f45;
   }
-
+  
   .contenido {
     color: #419486;
   }
-
+  
   .caja {
     background: #419486;
     color: #faf7f9;
   }
-
+  
   .hover-primary:hover {
     background: #419486;
     color: #faf7f9;
@@ -26,24 +27,25 @@
   .hover-primary {
     color: #419486;
   }
-
+    
   .caja2 {
     background: #dbd6d9;
   }
-
+  
   ::-webkit-scrollbar {
     width: 10px;
     background-color: #41948677;
   }
-
+  
   ::-webkit-scrollbar-thumb {
     background-color: #419486ca;
     border-radius: 10px;
   }
-
+  
   .parent {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(10, 1fr);
     gap: 7px;
   }
+
